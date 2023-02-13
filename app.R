@@ -1,5 +1,21 @@
 #### Chargement des packages ----
-
+library(shiny)
+library(shinydashboard)
+library(tibble)
+library(ggplot2)
+library(scales)
+library(forcats)
+library(DT)
+library(sf)
+library(readxl)
+library(sp)
+library(tidyr)
+library(dplyr)
+library(tidyverse)
+library(leaflet)
+library(maps)
+library(ggmap)
+library(rmapshaper)
 
 
 
