@@ -1,0 +1,13 @@
+name: app5
+title: app5
+username:
+account: noraikem
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6636346
+bundleId: 6094827
+url: https://noraikem.shinyapps.io/app5/
+when: 1657719907.99073
+lastSyncTime: 1657719907.99074
+asMultiple: FALSE
+asStatic: FALSE
